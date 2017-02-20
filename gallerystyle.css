@@ -1,0 +1,61 @@
+body{
+  font-family: 'Lora', serif;
+  background-color: #ef6e6e;
+}
+
+.container{
+  margin-top: 50px;
+  margin-bottom: 10px;
+  margin-left: 70px;
+  margin-right: 50px;
+}
+
+.navbar ul {
+  list-style-type: none;
+}
+
+.navbar {
+  padding-bottom: 20px;
+  padding-top: 20px;
+  position: fixed;
+  width: 100%;
+  padding: 0;
+  top: 0;
+  overflow: hidden;
+  background-color: #d1d3d3;
+}
+
+.navbar li{
+    float: right;
+    padding-right: 20px;
+}
+
+.navbar a{
+  display: block;
+  color: black;
+  text-align: top;
+  text-decoration: none;
+  padding-bottom: 20px;
+  padding-right: 10px;
+}
+
+h1{
+  text-align: center;
+  color:white;
+  padding-top: 20px;
+}
+
+.Flavors .img{
+  float:left;
+}
+
+.Flavors{
+  padding-top: 20px;
+}
+
+footer{
+  background-color: #d1d3d3;
+  text-align: center;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
