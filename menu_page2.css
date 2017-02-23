@@ -1,0 +1,74 @@
+html {
+  text-align: center;
+  font-family: 'Lora', serif;
+}
+
+img {
+  float: right;
+  clear: both;
+  display: inline-block;
+  padding-top: 28%;
+  padding-right: 6%;
+  width: 40%;
+  height: 40%;
+}
+.navbar ul {
+  list-style-type: none;
+}
+h2 {
+  padding-top: 8%;
+  padding-bottom: 3%;
+  background-color: #F385A2;
+  text-align: center;
+}
+.navbar {
+  padding-bottom: 20px;
+  padding-top: 20px;
+  position: fixed;
+  width: 100%;
+  padding: 0;
+  top: 0;
+  overflow: hidden;
+  background-color: #d1d3d3;
+}
+
+.navbar li{
+    float: right;
+    padding-right: 20px;
+}
+
+.navbar a{
+  display: block;
+  color: black;
+  text-align: top;
+  text-decoration: none;
+  padding-bottom: 20px;
+  padding-right: 10px;
+}
+h4 {
+  padding-left: 23%;
+}
+ul {
+  padding-left: 27%;
+}
+.teas {
+  padding-right: 84%;
+}
+.cupcakeflavors {
+  float: none;
+  text-align: left;
+}
+.hotdrinks {
+  float: none;
+  text-align: left;
+}
+.colddrinks {
+  float: none;
+  text-align: left;
+}
+footer{
+  background-color: #d1d3d3;
+  text-align: center;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
